@@ -1,3 +1,0 @@
-Ejemplo de segundo texto
-Segunda linea
-Linea luego del primer commit
